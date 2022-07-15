@@ -18,6 +18,6 @@
 
 
 [![Twitter](https://img.shields.io/badge/-@amirhoseindavat-555?style=flat-square&logo=Twitter&logoColor=eee&labelColor=blue)](https://twitter.com/amirhoseindavat)
-[![Telegram](https://img.shields.io/badge/-@amirhoseindavat-555?style=flat-square&logo=Telegram&logoColor=eee&labelColor=blue)](https://twitter.com/amirhoseindavat)
+[![Telegram](https://img.shields.io/badge/-@amirhoseindavat-555?style=flat-square&logo=Telegram&logoColor=eee&labelColor=blue)](https://t.me/amirhoseindavat)
 
 
