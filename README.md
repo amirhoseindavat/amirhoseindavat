@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋 i'm Amirhosein Davatgari
 
-<!--
-**amirhoseindavat/amirhoseindavat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=amirhoseindavat)
 
-Here are some ideas to get you started:
+![GitHub metrics](https://metrics.lecoq.io/amirhoseindavat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm doing now
+
+-  Student
+-  Enhancing my skills everyday
+
+
+
+### 📫 How to reach me
+
+
+[![Github](https://img.shields.io/badge/Github-amirhoseindavat-555?style=flat-square&logo=github&logoColor=eee&labelColor=222)](https://github.com/ahangarha)
+
+
+[![Twitter](https://img.shields.io/badge/-@amirhoseindavat-555?style=flat-square&logo=Twitter&logoColor=eee&labelColor=blue)](https://twitter.com/amirhoseindavat)
+[![Telegram](https://img.shields.io/badge/-@amirhoseindavat-555?style=flat-square&logo=Telegram&logoColor=eee&labelColor=blue)](https://twitter.com/amirhoseindavat)
+
+
