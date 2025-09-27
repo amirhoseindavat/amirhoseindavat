@@ -1,9 +1,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there i'm Amirhosein Davatgari 
 
-![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=amirhoseindavat)
+<!--![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=amirhoseindavat)-->
 
-![GitHub metrics](https://metrics.lecoq.io/amirhoseindavat)
-
+<p align="center">
+  <img width="445" height="175" src="https://github-readme-stats.3urobeat.com/?username=amirhoseindavat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+</p>
 
 ## 🛠️ My favorite tools
 
@@ -50,4 +51,6 @@
 [![Twitter](https://img.shields.io/badge/-@amirhoseindavat-555?style=flat-square&logo=Twitter&logoColor=eee&labelColor=blue)](https://twitter.com/amirhoseindavat)
 [![Telegram](https://img.shields.io/badge/-@amirhoseindavat-555?style=flat-square&logo=Telegram&logoColor=eee&labelColor=blue)](https://t.me/amirhoseindavat)
 
+---
 
+<p align="center">⬇️ Check out my pinned repositories below! ⬇️</p>
